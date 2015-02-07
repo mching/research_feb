@@ -1,0 +1,22 @@
+---
+title: "Posters/Presentations"
+author: "Michael Ching"
+date: "February 7, 2015"
+output: html_document
+---
+## Posters
+1. Engelhardt, KA; Hisle-Gorman, E; Gorman, GA; Dobson, NR. Decreased Prematurity rates in an Open-Access Universal Health Care System Poster presentation at Pediatric Academic Societies’ Annual Meeting, Vancouver, Canada, May 2014. Poster presentation at Eastern Society for Pediatric Research Meeting, Philadelphia, PA, Mar 2014. 
+1. Peterson, LA; Kerecman, JD; Dobson, NR; Gorman, GA; Hisle-Gorman, E. Chronic Lung Disease in VLBW Infants in a Universal Health Care System. Poster presentation at Pediatric Academic Societies’ Annual Meeting, Vancouver, Canada, May 2014. Poster presentation at Eastern Society for Pediatric Research Meeting, Philadelphia, PA, Mar 2014.
+1. Dobson CP, Eide M, Nylund, C. Prevalence of Hypertension, Cardiac Complications and Anti-Hypertensive Medication Use in Children. Poster presentation, Amer. Heart Assoc. Annual Scientific Sessions. November, 2013.
+1. Ching, M.S.L., Kuwabara, N. Who is referred for developmental evaluation when parents are concerned? Poster presented at the Annual Meeting of the Society for Developmental Behavioral Pediatrics, Baltimore, MD, September 29, 2013. 
+1. Ching, M.S.L., Kuwabara, N. Parental Concern Interacts With Child Factors in Predicting Referrals for Developmental Evaluation. Poster presented at the Pediatric Academic Societies Annual Meeting, Vancouver, Canada, May 3, 2014.
+Spriet, S. A Case of Megace-Induced Cushing’s Syndrome in a Cystic Fibrosis Patient.' Bass Symposium, Tripler Army Medical Center May 2014 
+1. Ching, M.S.L. Impact of Updated Autism Spectrum Disorder Screening on Knowledge, Attitudes, and Practices among Pediatricians. Poster presented at the 7th Annual Donald A. Person Poster Session, Tripler Army Medical Center, May 21, 2014.
+1. Bevis Z, Mahnke CB. Novel Genetic Variant Causing Catecholaminergic Polymorphic Ventricular Tachycardia. Bass/Person Research Symposium, Honolulu, May 2014. 
+Farmer D, Mahnke CB, Kellicut DC, Stockmaster NR. Repair of Symptomatic Kommerell Diverticulum in an Active Duty Marine. Bass/Person Research Symposium, Honolulu, May 2014.
+1. Braun L, Sawyer T, Hsu A, Smith K, Behrens M, Chan D, Reyes J, Singh R, Hutchinson J, Lu D, Lopreiato J. Retention of Mastery-Level Resuscitation Skill by Pediatric Residents. Pediatric Academic Societies’ Annual Meeting, Washington DC, 2013. 
+1. Braun L, Sawyer T, Hsu A, Smith K, Behrens M, Chan D, Reyes J, Singh R, Hutchinson J, Lu D, Lopreiato J. Retention of Pediatric Resuscitation Skill after a Simulation-Based Mastery Learning Intervention. 5th International Pediatric Simulation Symposium and Workshops, New York, NY, 2013.
+
+
+
+

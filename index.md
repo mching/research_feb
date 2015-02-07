@@ -21,10 +21,9 @@ knit        : slidify::knit2slides
 
 ## Publication Productivity
 
-Survey of department in late 2014
-
-PubMed "Tripler Pediatrics" (2013-)
-Google Scholar "Tripler Pediatrics" (2013-)
+1. Survey of department in late 2014
+2. PubMed "Tripler Pediatrics" (2012-)
+3. Google Scholar "Tripler Pediatrics" (2012-)
 
 [Link to Publication Bibliography](publications.html)
 
@@ -38,27 +37,53 @@ Google Scholar "Tripler Pediatrics" (2013-)
 
 ## Participation by Residents
 
-
-```r
-ggplot(data=dat, aes(x=type, fill = resident)) + 
-    geom_bar(stat="bin") + xlab("Publication Type")
-```
-
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2-1.png) 
 
 ---
 
-## Divisions Involved in Research
-
-
-```r
-ggplot(data=dat, aes(x=division)) + 
-    geom_bar(fill="#FF9999", stat="bin") + xlab("Publication Type")
-```
+## Key Figures
 
 ![plot of chunk unnamed-chunk-3](assets/fig/unnamed-chunk-3-1.png) 
 
 ---
 
+## Divisions Involved in Research
+
+![plot of chunk unnamed-chunk-4](assets/fig/unnamed-chunk-4-1.png) 
+
+---
+
 ## Posters/Presentations
 
+[Link to Posters/Conferences](posters_presentations.html)
+
+---
+
+## Conference Presentations
+1. Lamphear, J. Military Medical Humanitarian Course: Malnutrition and Diarrhea and Dehydration in Complex Humanitarian Missions, Sept 2013, Seoul, South Korea.
+Mahnke, CB. Tripler Army Medical Center Hospital Grand Rounds: Teleconsultation in the Pacific. Apr 2014.
+1. Greene JP, Burr J: Teen Talk: How to Connect, Pediatrics Island Style, 2013, The Patient-Physician Relationship: Communication is Key, Honolulu, Hawaii, November 2013.
+1. Woods, E. : Pediatric Windows Falls Prevention, Conference of the Western Pacific, Vancouver, WA, June 2014
+
+---
+
+## Funded Grants: 
+1. Dobson, NR Effects of FGF2 in a Neonatal Mouse Model of White Matter Damage. Principal Investigator. Direct grant amount $60,000. Sponsor: USUHS Office of Research (funded 2011-2014). 
+1. Dobson, NR Effect of Caffeine on Intermittent Hypoxia in Infants Born Preterm. Co-Investigator. Direct grant amount $90,000. Sponsor: American SIDS Institute (funded 2009-2014)
+1. Ching, MSL. Development of a Collaborative Learning Site to Improve Assessment and Management of Developmental Behavioral Pediatrics Conditions, Principal Investigator. Direct Grant amount $20,000. Sponsor: TATRC (2014).
+1. Pinsker, JE. 
+
+---
+
+## Research Group January Meeting
+1. Discussed current research projects from Larson, Sampert, Ching, Chan
+2. Created goal for each person to report back on (example: Sampert to update lit review for re-submission of research paper)
+3. Opened project to find out what resources are available for database research
+
+---
+
+## Next Steps
+1. Monthly research meeting
+1. Encourage more active researchers' participation
+2. Present research projects to residents to get them involved
+3. Design, complete, and submit research
