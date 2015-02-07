@@ -32,32 +32,31 @@ Google Scholar "Tripler Pediatrics" (2013-)
 
 ## Breakdown of Research Type
 
-Case Reports
-Review Article
-Secondary Analysis/Chart Review
-Prospective
-
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
 
 ---
 
 ## Participation by Residents
 
-Staff
-Resident
 
-### Types of Research Done by Residents
+```r
+ggplot(data=dat, aes(x=type, fill = resident)) + 
+    geom_bar(stat="bin") + xlab("Publication Type")
+```
 
-Note that primarily case reports
-
+![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2-1.png) 
 
 ---
 
-## Done at TAMC
+## Divisions Involved in Research
 
-TAMC
-Outside TAMC
 
+```r
+ggplot(data=dat, aes(x=division)) + 
+    geom_bar(fill="#FF9999", stat="bin") + xlab("Publication Type")
+```
+
+![plot of chunk unnamed-chunk-3](assets/fig/unnamed-chunk-3-1.png) 
 
 ---
 

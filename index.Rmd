@@ -21,10 +21,9 @@ knit        : slidify::knit2slides
 
 ## Publication Productivity
 
-Survey of department in late 2014
-
-PubMed "Tripler Pediatrics" (2013-)
-Google Scholar "Tripler Pediatrics" (2013-)
+1. Survey of department in late 2014
+2. PubMed "Tripler Pediatrics" (2012-)
+3. Google Scholar "Tripler Pediatrics" (2012-)
 
 [Link to Publication Bibliography](publications.html)
 
@@ -32,37 +31,31 @@ Google Scholar "Tripler Pediatrics" (2013-)
 
 ## Breakdown of Research Type
 
-Case Reports
-Review Article
-Secondary Analysis/Chart Review
-Prospective
-
 ```{r, echo =FALSE}
-suppressPackageStartupMessages(library(ggplot2))
-x <- 1:100
-y <- 1:100
-qplot(x, y)
+library(ggplot2)
+dat <- read.table("pubs_data.txt", sep = "\t", head = T)
+
+ggplot(data=dat, aes(x=type)) + 
+    geom_bar(fill="#FF9999", stat="bin") + xlab("Publication Type")
 ```
 
 ---
 
 ## Participation by Residents
 
-Staff
-Resident
-
-### Types of Research Done by Residents
-
-Note that primarily case reports
-
+```{r, echo = FALSE}
+ggplot(data=dat, aes(x=type, fill = resident)) + 
+    geom_bar(stat="bin") + xlab("Publication Type")
+```
 
 ---
 
-## Done at TAMC
+## Divisions Involved in Research
 
-TAMC
-Outside TAMC
-
+```{r, echo = FALSE}
+ggplot(data=dat, aes(x=division)) + 
+    geom_bar(fill="#FF9999", stat="bin") + xlab("Publication Type")
+```
 
 ---
 

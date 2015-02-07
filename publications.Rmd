@@ -1,5 +1,5 @@
 ---
-title: "Publications 2013-2014"
+title: "Publications 2012-2015"
 author: "Department of Pediatrics, Tripler AMC"
 date: "February 7, 2015"
 output: html_document
@@ -8,30 +8,47 @@ output: html_document
 1. Abbas MI, Oliva-Hemker M, Choi J, et al. Magnet ingestions in children presenting to US emergency departments, 2002-2011. J Pediatr Gastroenterol Nutr. 2013;57(1):18-22. doi:10.1097/MPG.0b013e3182952ee5.
 2. Bear KA, Solomon BD, Antonini S, et al. Pathogenic mutations in GLI2 cause a specific phenotype that is distinct from holoprosencephaly. J Med Genet. 2014;51(6):413-418. doi:10.1136/jmedgenet-2013-102249.
 3. Braun L, Sawyer T, Smith K, et al. Retention of pediatric resuscitation performance after a simulation-based mastery learning session: a multicenter randomized trial. Pediatr Crit Care Med. 2015;16(2):131-138. doi:10.1097/PCC.0000000000000315.
-4. Clark ME, Osten AW, Abbas MI, Edwards MJ. Hepatic abscess following NSAID use in an adolescent. Journal of Pediatric Surgery Case Reports. 2014;2(1):33-36.
-5. Dobson CP, Kim A, Haigney M. QT Variability Index. Prog Cardiovasc Dis. 2013;56(2):186-194. doi:10.1016/j.pcad.2013.07.004.
-6. Dobson NR, Hunt CE. Pharmacology review: Caffeine use in neonates: Indications, pharmacokinetics, clinical effects, outcomes. NeoReviews. 2013;14(11):e540-e550.
-7. Dobson NR, Patel RM, Smith PB, et al. Trends in caffeine use and association between clinical outcomes and timing of therapy in very low birth weight infants. J Pediatr. 2014;164(5):992-998.e3. doi:10.1016/j.jpeds.2013.12.025.
-8. Edwards MJ, Lustik M, Burnett MW, Eichelberger M. Pediatric inpatient humanitarian care in combat: Iraq and Afghanistan 2002 to 2012. J Am Coll Surg. 2014;218(5):1018-1023. doi:10.1016/j.jamcollsurg.2013.12.050.
-9. Filan E, Abbas M. Abdominal Pain, Fever, and Infection Secondary to an Unusual Source in a Previously Healthy Child. Clinical pediatrics. 2014;53(6):607-609.
-10. Hutchinson JW, Greene JP, Bryant CM, Kapunan PE. Helping those who serve: care of the young adult veteran. Adolesc Med State Art Rev. 2013;24(3):553-572.
-11. Kuwabara N, Ching MS. A review of factors affecting vaccine preventable disease in Japan. Hawaii J Med Public Health. 2014;73(12):376-381.
-12. Larson NS, Pinsker JE. Primary hypothyroidism with growth failure and pituitary pseudotumor in a 13-year-old female: a case report. J Med Case Rep. 2013;7:149. doi:10.1186/1752-1947-7-149.
-13. Larson NS, Pinsker JE. The role of continuous glucose monitoring in the care of children with type 1 diabetes. Int J Pediatr Endocrinol. 2013;2013(1):8. doi:10.1186/1687-9856-2013-8.
-14. Lords Q, Greene JP. Traumatic migraine versus concussion: a case report. Sports Health. 2014;6(5):406-409. doi:10.1177/1941738113491701.
-15. Ong BA, Caboot J, Jawad A, et al. Respiratory muscle force and lung volume changes in a population of children with sickle cell disease. Br J Haematol. 2013;163(1):112-117. doi:10.1111/bjh.12481.
-16. Ong BA, Li J, McDonough JM, et al. Gene network analysis in a pediatric cohort identifies novel lung function genes. PLoS ONE. 2013;8(9):e72899. doi:10.1371/journal.pone.0072899.
-17. Palmer EG, Ramirez-Enriquez E, Frioux SM, Tyree MM. Vitamin D deficiency at birth among military dependants in Hawai’i. Hawaii J Med Public Health. 2013;72(3):88-91.
-18. Pinsker JE, Becker E, Mahnke C, Ching M, Larson NS, Roy D. Extensive clinical experience: a simple guide to basal insulin adjustments for long-distance travel. Journal of Diabetes & Metabolic Disorders. 2013;12(1):59. doi:10.1186/2251-6581-12-59.
-19. Pinsker JE, McBayne K, Edwards M, Jensen K, Crudo DF, Bauer AJ. Transient hypothyroidism in premature infants after short-term topical iodine exposure: an avoidable risk? Pediatr Neonatol. 2013;54(2):128-131. doi:10.1016/j.pedneo.2012.10.005.
-20. Recupero A, Mahnke B, Pinsker JE. Emerging technology in diabetes care: the real-time diabetes monitoring system. Mil Med. 2013;178(2):218-221.
-21. Rhein LM, Dobson NR, Darnall RA, et al. Effects of caffeine on intermittent hypoxia in infants born prematurely: a randomized clinical trial. JAMA Pediatr. 2014;168(3):250-257. doi:10.1001/jamapediatrics.2013.4371.
-22. Sainato RJ, Simmons EG, Muench DF, Burnett MW, Braun L. Management of infants born to women infected with hepatitis B in the military healthcare system. BMC Res Notes. 2013;6:338. doi:10.1186/1756-0500-6-338.
-23. Sawyer T, Leonard D, Sierocka-Castaneda A, Chan D, Thompson M. Correlations between technical skills and behavioral skills in simulated neonatal resuscitations. J Perinatol. 2014;34(10):781-786. doi:10.1038/jp.2014.93.
-24. Sawyer T, Laubach VA, Hudak J, Yamamura K, Pocrnich A. Improvements in teamwork during neonatal resuscitation after interprofessional TeamSTEPPS training. Neonatal Netw. 2013;32(1):26-33. doi:10.1891/0730-0832.32.1.26.
-25. Solomon BD, Baker LA, Bear KA, et al. An approach to the identification of anomalies and etiologies in neonates with identified or suspected VACTERL (vertebral defects, anal atresia, tracheo-esophageal fistula with esophageal atresia, cardiac anomalies, renal anomalies, and limb anomalies) association. J Pediatr. 2014;164(3):451-457.e1. doi:10.1016/j.jpeds.2013.10.086.
-26. Studer MA, Smith AE, Lustik MB, Carr MR. Newborn pulse oximetry screening to detect critical congenital heart disease. J Pediatr. 2014;164(3):505-509.e1-e2. doi:10.1016/j.jpeds.2013.10.065.
-27. Wai K, Soler-García AA, Perazzo S, Mattison P, Ray PE. A pilot study of urinary fibroblast growth factor-2 and epithelial growth factor as potential biomarkers of acute kidney injury in critically ill children. Pediatr Nephrol. 2013;28(11):2189-2198. doi:10.1007/s00467-013-2543-3.
-28. Welsh SK, Crudo DF, Pinsker JE. Visual diagnosis: 6-month-old boy with leg pain. Pediatr Rev. 2014;35(11):e57-e60. doi:10.1542/pir.35-11-e57.
-29. Welsh SK, Gross JE, Larson NS, Berg JM, Roy D, Pinsker JE. False-negative sweat chloride testing in a child with cystic fibrosis and undiagnosed hypohidrotic ectodermal dysplasia. Clin Pediatr (Phila). 2014;53(12):1203-1205. doi:10.1177/0009922813518426.
-30. Williams R, Larson NS, Pinsker JE. Occult pyogenic liver abscess in an adolescent with type 2 diabetes. Endocrine. 2014;45(2):335-336. doi:10.1007/s12020-013-0036-6.
+4. Burr JE, Roberts TA, Bucci JR. Dependent adolescent pregnancy rates and risk factors for pregnancy in the military health care system. Mil Med. 2013;178(4):412-415. doi:10.7205/MILMED-D-12-00461.
+5. Chiles D, Larson N, Pinsker JE. Visual vignette. Graves disease with anasarca. Endocr Pract. 2012;18(4):619. doi:10.4158/EP12044.VV.
+6. Clark ME, Osten AW, Abbas MI, Edwards MJ. Hepatic abscess following NSAID use in an adolescent. Journal of Pediatric Surgery Case Reports. 2014;2(1):33-36.
+7. Delaney HM, Rooks VJ, Wolfe SQ, Sawyer TL. Term neonate with intracranial hemorrhage and hereditary hemorrhagic telangiectasia: a case report and review of the literature. Journal of Perinatology. 2012;32(8):642-644.
+8. Delaney HM, Wang E, Melish M. Comprehensive strategy including prophylactic mupirocin to reduce Staphylococcus aureus colonization and infection in high-risk neonates. J Perinatol. 2013;33(4):313-318. doi:10.1038/jp.2012.102.
+9. Dobson CP, Kim A, Haigney M. QT Variability Index. Prog Cardiovasc Dis. 2013;56(2):186-194. doi:10.1016/j.pcad.2013.07.004.
+10. Dobson NR, Hunt CE. Pharmacology review: Caffeine use in neonates: Indications, pharmacokinetics, clinical effects, outcomes. NeoReviews. 2013;14(11):e540-e550.
+11. Dobson NR, Patel RM, Smith PB, et al. Trends in caffeine use and association between clinical outcomes and timing of therapy in very low birth weight infants. J Pediatr. 2014;164(5):992-998.e3. doi:10.1016/j.jpeds.2013.12.025.
+12. Edwards MJ, Crudo DF, Carlson TL, Pedersen AM, Keller L. Pancreatic atrophy and diabetes mellitus following blunt abdominal trauma. Journal of pediatric surgery. 2013;48(2):432-435.
+13. Edwards MJ, Lustik M, Burnett MW, Eichelberger M. Pediatric inpatient humanitarian care in combat: Iraq and Afghanistan 2002 to 2012. J Am Coll Surg. 2014;218(5):1018-1023. doi:10.1016/j.jamcollsurg.2013.12.050.
+14. Filan E, Abbas M. Abdominal Pain, Fever, and Infection Secondary to an Unusual Source in a Previously Healthy Child. Clinical pediatrics. 2014;53(6):607-609.
+15. Hsu AA, von Elten K, Chan D, et al. Characterization of the cortisol stress response to sedation and anesthesia in children. J Clin Endocrinol Metab. 2012;97(10):E1830-E1835. doi:10.1210/jc.2012-1499.
+16. Hutchinson JW, Greene JP, Bryant CM, Kapunan PE. Helping those who serve: care of the young adult veteran. Adolesc Med State Art Rev. 2013;24(3):553-572.
+17. Johnson L, Mu T, Sawyer T. Use of medical simulation in neonatal-perinatal fellowship training programs. Journal of Neonatal-Perinatal Medicine. 2012;5(4):339-345.
+18. Kuwabara N, Ching MS. A review of factors affecting vaccine preventable disease in Japan. Hawaii J Med Public Health. 2014;73(12):376-381.
+19. Larson NS, Pinsker JE. Primary hypothyroidism with growth failure and pituitary pseudotumor in a 13-year-old female: a case report. J Med Case Rep. 2013;7:149. doi:10.1186/1752-1947-7-149.
+20. Larson NS, Pinsker JE. The role of continuous glucose monitoring in the care of children with type 1 diabetes. Int J Pediatr Endocrinol. 2013;2013(1):8. doi:10.1186/1687-9856-2013-8.
+21. Lindley L, Williams S, Gross JE, Greene JP. An adolescent female with abdominal pain and chronic cough. Adolesc Med State Art Rev. 2012;23(2):326-331.
+22. Lords Q, Greene JP. Traumatic migraine versus concussion: a case report. Sports Health. 2014;6(5):406-409. doi:10.1177/1941738113491701.
+23. Mu TS, Palmer EG, Batts SG, Lentz-Kapua SL, Uyehara-Lock JH, Uyehara CF. Continuous renal replacement therapy to reduce inflammation in a piglet hemorrhage-reperfusion extracorporeal membrane oxygenation model. Pediatric research. 2012;72(3):249-255.
+24. Ong BA, Caboot J, Jawad A, et al. Respiratory muscle force and lung volume changes in a population of children with sickle cell disease. Br J Haematol. 2013;163(1):112-117. doi:10.1111/bjh.12481.
+25. Ong BA, Li J, McDonough JM, et al. Gene network analysis in a pediatric cohort identifies novel lung function genes. PLoS ONE. 2013;8(9):e72899. doi:10.1371/journal.pone.0072899.
+26. Palmer EG, Ramirez-Enriquez E, Frioux SM, Tyree MM. Vitamin D deficiency at birth among military dependants in Hawai’i. Hawaii J Med Public Health. 2013;72(3):88-91.
+27. Pinsker JE, Becker E, Mahnke C, Ching M, Larson NS, Roy D. Extensive clinical experience: a simple guide to basal insulin adjustments for long-distance travel. Journal of Diabetes & Metabolic Disorders. 2013;12(1):59. doi:10.1186/2251-6581-12-59.
+28. Pinsker JE, Crudo DF. Ganglioneuroblastoma in a young child with Turner syndrome. Journal of Pediatric Endocrinology and Metabolism. 2012;25(7-8):799-800.
+29. Pinsker JE, McBayne K, Edwards M, Jensen K, Crudo DF, Bauer AJ. Transient hypothyroidism in premature infants after short-term topical iodine exposure: an avoidable risk? Pediatr Neonatol. 2013;54(2):128-131. doi:10.1016/j.pedneo.2012.10.005.
+30. Pinsker JE. Clinical review: Turner syndrome: updating the paradigm of clinical care. J Clin Endocrinol Metab. 2012;97(6):E994-E1003. doi:10.1210/jc.2012-1245.
+31. Rajnik M, Ottolini M, Weisse M. Pediatric Infectious Diseases: 60 Years of Contributions by Military Pediatricians. Pediatrics. 2012;129(Supplement 1):S27-S32.
+32. Recupero A, Mahnke B, Pinsker JE. Emerging technology in diabetes care: the real-time diabetes monitoring system. Mil Med. 2013;178(2):218-221.
+33. Rhein LM, Dobson NR, Darnall RA, et al. Effects of caffeine on intermittent hypoxia in infants born prematurely: a randomized clinical trial. JAMA Pediatr. 2014;168(3):250-257. doi:10.1001/jamapediatrics.2013.4371.
+34. Sainato RJ, Simmons EG, Muench DF, Burnett MW, Braun L. Management of infants born to women infected with hepatitis B in the military healthcare system. BMC Res Notes. 2013;6:338. doi:10.1186/1756-0500-6-338.
+35. Sawyer T, Leonard D, Sierocka-Castaneda A, Chan D, Thompson M. Correlations between technical skills and behavioral skills in simulated neonatal resuscitations. J Perinatol. 2014;34(10):781-786. doi:10.1038/jp.2014.93.
+36. Sawyer T, Laubach VA, Hudak J, Yamamura K, Pocrnich A. Improvements in teamwork during neonatal resuscitation after interprofessional TeamSTEPPS training. Neonatal Netw. 2013;32(1):26-33. doi:10.1891/0730-0832.32.1.26.
+37. Sawyer T, Sierocka-Castaneda A, Chan D, Berg B, Lustik M, Thompson M. The effectiveness of video-assisted debriefing versus oral debriefing alone at improving neonatal resuscitation performance: a randomized trial. Simul Healthc. 2012;7(4):213-221. doi:10.1097/SIH.0b013e3182578eae.
+38. Smith A, Doan ML, Roy D, Pinsker JE. Adrenal Insufficiency and Growth Failure Secondary to Inhaled Corticosteroids A Paradoxical Complication. Clinical pediatrics. 2012;51(12):1194-1196.
+39. Solomon BD, Baker LA, Bear KA, et al. An approach to the identification of anomalies and etiologies in neonates with identified or suspected VACTERL (vertebral defects, anal atresia, tracheo-esophageal fistula with esophageal atresia, cardiac anomalies, renal anomalies, and limb anomalies) association. J Pediatr. 2014;164(3):451-457.e1. doi:10.1016/j.jpeds.2013.10.086.
+40. Studer MA, Smith AE, Lustik MB, Carr MR. Newborn pulse oximetry screening to detect critical congenital heart disease. J Pediatr. 2014;164(3):505-509.e1-e2. doi:10.1016/j.jpeds.2013.10.065.
+41. Tabak B, Elliott CL, Mahnke CB, Tanaka LY, Ogino MT. Transthoracic echocardiography visualization of bicaval dual lumen catheters for veno-venous extracorporeal membrane oxygenation. Journal of Clinical Ultrasound. 2012;40(3):183-186.
+42. Wai K, Soler-García AA, Perazzo S, Mattison P, Ray PE. A pilot study of urinary fibroblast growth factor-2 and epithelial growth factor as potential biomarkers of acute kidney injury in critically ill children. Pediatr Nephrol. 2013;28(11):2189-2198. doi:10.1007/s00467-013-2543-3.
+43. Welsh SK, Crudo DF, Pinsker JE. Visual diagnosis: 6-month-old boy with leg pain. Pediatr Rev. 2014;35(11):e57-e60. doi:10.1542/pir.35-11-e57.
+44. Welsh SK, Gross JE, Larson NS, Berg JM, Roy D, Pinsker JE. False-negative sweat chloride testing in a child with cystic fibrosis and undiagnosed hypohidrotic ectodermal dysplasia. Clin Pediatr (Phila). 2014;53(12):1203-1205. doi:10.1177/0009922813518426.
+45. Williams R, Larson NS, Pinsker JE. Occult pyogenic liver abscess in an adolescent with type 2 diabetes. Endocrine. 2014;45(2):335-336. doi:10.1007/s12020-013-0036-6.
+46. Wiszniewski W, Hunter JV, Hanchard NA, et al. TM4SF20 Ancestral Deletion and Susceptibility to a Pediatric Disorder of Early Language Delay and Cerebral White Matter Hyperintensities. The American Journal of Human Genetics. 2013;93(2):197-210. doi:10.1016/j.ajhg.2013.05.027.
+47. Woods BT, Greene JP. An adolescent with abnormal uterine bleeding: an uncommon cause for a common complaint. Adolesc Med State Art Rev. 2012;23(2):387-392.
