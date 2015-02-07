@@ -37,6 +37,8 @@ Review Article
 Secondary Analysis/Chart Review
 Prospective
 
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
+
 ---
 
 ## Participation by Residents

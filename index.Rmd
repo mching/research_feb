@@ -37,6 +37,13 @@ Review Article
 Secondary Analysis/Chart Review
 Prospective
 
+```{r, echo =FALSE}
+suppressPackageStartupMessages(library(ggplot2))
+x <- 1:100
+y <- 1:100
+qplot(x, y)
+```
+
 ---
 
 ## Participation by Residents
