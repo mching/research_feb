@@ -68,6 +68,17 @@ ggplot(data=dat, aes(x=type, fill = key_figs)) +
 
 ---
 
+## Research Done while at TAMC Pediatrics?
+
+```{r, echo = FALSE}
+str(dat$tamc_research)
+dat$tamc_research <- relevel(dat$tamc_research, ref = "yes")
+ggplot(data=dat, aes(x=type, fill = tamc_research)) + 
+    geom_bar(stat="bin") + xlab("Publication Type") +
+    theme(text = element_text(size=18))
+```
+
+---
 ## Divisions Involved in Research
 
 ```{r, echo = FALSE}
@@ -97,6 +108,7 @@ Mahnke, CB. Tripler Army Medical Center Hospital Grand Rounds: Teleconsultation 
 1. Dobson, NR Effect of Caffeine on Intermittent Hypoxia in Infants Born Preterm. Co-Investigator. Direct grant amount $90,000. Sponsor: American SIDS Institute (funded 2009-2014)
 1. Ching, MSL. Development of a Collaborative Learning Site to Improve Assessment and Management of Developmental Behavioral Pediatrics Conditions, Principal Investigator. Direct Grant amount $20,000. Sponsor: TATRC (2014).
 1. Pinsker, JE. 
+1. Larson/TrialNet
 
 ---
 
