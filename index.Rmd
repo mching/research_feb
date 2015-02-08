@@ -91,13 +91,17 @@ ggplot(data=dat, aes(x=division)) +
 
 ## Posters/Presentations
 
+Make table of Internal, Local, National Posters  
+
+Note not complete list since some residents presented nationally last year (i.e., Amisha Patel)
+
 [Link to Posters/Conferences](posters_presentations.html)
 
 ---
 
 ## Conference Presentations
 1. Lamphear, J. Military Medical Humanitarian Course: Malnutrition and Diarrhea and Dehydration in Complex Humanitarian Missions, Sept 2013, Seoul, South Korea.
-Mahnke, CB. Tripler Army Medical Center Hospital Grand Rounds: Teleconsultation in the Pacific. Apr 2014.
+1. Mahnke, CB. Tripler Army Medical Center Hospital Grand Rounds: Teleconsultation in the Pacific. Apr 2014.
 1. Greene JP, Burr J: Teen Talk: How to Connect, Pediatrics Island Style, 2013, The Patient-Physician Relationship: Communication is Key, Honolulu, Hawaii, November 2013.
 1. Woods, E. : Pediatric Windows Falls Prevention, Conference of the Western Pacific, Vancouver, WA, June 2014
 
